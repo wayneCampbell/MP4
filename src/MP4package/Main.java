@@ -26,7 +26,7 @@ public class Main extends javax.swing.JFrame {
     }
 
     /**
-     * updateOutput handles the ouput onto the screen
+     * updateOutput handles the output onto the screen
      *
      * @param roomNumber, current room
      * @return void
