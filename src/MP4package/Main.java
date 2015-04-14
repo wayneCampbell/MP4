@@ -4,7 +4,7 @@ import game.Game;
 import gameobjects.Room;
 import globals.Direction;
 import javax.swing.JOptionPane;
-//Wayne Waffles
+//Wayne Waffles Trevor Waffles
 /**
  * Main is the main implementation of the Adventure Game
  *
